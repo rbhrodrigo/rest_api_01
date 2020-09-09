@@ -1,0 +1,29 @@
+[
+  {
+    "usuario": {
+      "id": "1",
+      "name": "Juan Rodriguez",
+      "email": "juan@rodriguez.org",
+      "password": "hunter2",
+      "phones": "1234567"
+    }
+  },
+  {
+    "usuario": {
+      "id": "2",
+      "name": "Rodrigo Bahamonde",
+      "email": "rbahamonde@gmail.com",
+      "password": "hunter3",
+      "phones": "1234567"
+    }
+  },
+  {
+    "usuario": {
+      "id": "3",
+      "name": "Alejandro Sepulveda",
+      "email": "asepulveda@gmail.com",
+      "password": "hunter4",
+      "phones": "1234567"
+    }
+  }
+]
