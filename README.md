@@ -1,7 +1,7 @@
 ## Prueba api rest
 Prueba de funcionamiento de una Api Rest
 
-Para ejecutar el proyecto, debes tener instalado Node Js y Posman en tu equipo
+Para ejecutar el proyecto, debes tener instalado Node Js y Postman en tu equipo
 
 paso 1: descargar el proyecto y descomprimirlo en tu computador
 paso 2: ejecutar la terminal Node.js command prompt e ir a la carpeta del proyecto 
